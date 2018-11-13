@@ -1,0 +1,16 @@
+1. The Top 3 Articles of All Time
+
+	Candidate is jerk, alleges rival ---> 338647 views
+	Bears love berries, alleges bear ---> 253801 views
+	Bad things gone, say good people ---> 170098 views
+
+2. These Are The Top Authors
+
+	Ursula La Multa ---> 507594 views
+	Rudolf von Treppenwitz ---> 423457 views
+	Anonymous Contributor ---> 170098 views
+	Markoff Chaney ---> 84557 views
+
+3. Days with more than 1 percent of errors
+
+	July 17, 2016 -- 2.262
