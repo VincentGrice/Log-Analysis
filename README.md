@@ -1,5 +1,5 @@
 # Logs Analysis Project
-Building an informative summary from logs and interacting with a live database that has over one million rows both from the command line and from the python code. Build and refine complex queries and use them to draw business conclusions from data. This project is a part of the Udacity's Full Stack Web Developer Nanodegree.
+Building an informative summary from logs and interacting with a live database that has over one million rows both from the command line and from python code. Build and refine complex queries and use them to draw business conclusions from data. This project is a part of the Udacity's Full Stack Web Developer Nanodegree.
 
 ## Technologies used
 1. PostgreSQL
